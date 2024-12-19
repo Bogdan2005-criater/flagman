@@ -14,6 +14,9 @@
         <a href="clients.php" class="list-group-item list-group-item-action">Управление клиентами</a>
         <a href="products.php" class="list-group-item list-group-item-action">Управление товарами</a>
         <a href="orders.php" class="list-group-item list-group-item-action">Управление заказами</a>
+        <a href="report.php" class="list-group-item list-group-item-action">Отчёт</a>
+        <a href="https://github.com/Bogdan2005-criater/flagman.git" class="list-group-item list-group-item-action">Код гитхаб</a>
+
     </div>
 </div>
 </body>
