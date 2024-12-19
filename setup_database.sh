@@ -9,7 +9,6 @@ mysql -u $DB_USER -p$DB_PASS -e "
 CREATE DATABASE IF NOT EXISTS $DB_NAME;
 USE $DB_NAME;
 
--- Создание таблицы Клиенты
 CREATE TABLE IF NOT EXISTS Клиенты (
     ID INT AUTO_INCREMENT PRIMARY KEY,
     ФИО VARCHAR(255) NOT NULL,
