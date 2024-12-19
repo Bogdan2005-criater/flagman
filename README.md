@@ -7,4 +7,4 @@
 6.Скриншоты работы с базой данных (например, запросы на выборку).
 
 
-1) ![Описание изображения]('https://github.com/Bogdan2005-criater/flagman.git/Снимок экрана от 2024-12-19 22-06-57.png')
+1) ![Описание изображения](https://raw.githubusercontent.com/Bogdan2005-criater/flagman/main/images/Снимок%20экрана%20от%202024-12-19%2022-06-57.png)
